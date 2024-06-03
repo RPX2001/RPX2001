@@ -1,3 +1,4 @@
+<img src="https://github.com/RPX2001/RPX2001/blob/main/github-header-image.png" alt="Banner Image">
 # Hi there, I'm Raveen Pramuditha! 👋
 
 Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded systems, robotics, and machine learning. Currently, I'm pursuing my studies in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa.
@@ -15,7 +16,8 @@ Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded syste
   
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-007DC3?style=for-the-badge&logo=altium&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
 
-![Coding Image](https://www.freepik.com/premium-vector/coding-programming-concept-illustration_13989583.htm) <!-- Replace with your coding image URL -->
+<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Image" width="300"/>
+
 
 ### 💡 Projects and Interests
 
