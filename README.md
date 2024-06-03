@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded syste
   
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-007DC3?style=for-the-badge&logo=altium&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
 
-
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/coding-programming-concept-illustration_13989583.htm">
 
 ### 💡 Projects and Interests
 
