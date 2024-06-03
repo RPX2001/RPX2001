@@ -2,16 +2,19 @@
 
 Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded systems, robotics, and machine learning. Currently, I'm pursuing my studies in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RPX2001)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RPX2001)
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Working on exciting projects related to electronics and embedded systems.
+- 🔭 **Current Focus:** Working on exciting projects related to electronics, embedded systems, IoT and Robotics.
 - 🌱 **Skills:** 
   - **Programming Languages:** Python, C++, MATLAB
   - **Specializations:** IoT, Embedded Systems, Robotics, Machine Learning
   - **Tools & Technologies:** ROS2 (ROS2 Humble and Gazebo Simulations), Altium (PCB design), SolidWorks (Enclosure design), Quartus lite(FPGA Programming)
+  
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-007DC3?style=for-the-badge&logo=altium&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
+
 
 
 ### 💡 Projects and Interests
@@ -26,5 +29,10 @@ Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded syste
 ### 📫 Get in Touch
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raveen-pramuditha-504564214/) or send me an email at raveenpspathirana99@gmail.com. I'm always open to discussing new projects, collaborations, or just chatting about tech!
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveen-pramuditha-504564214/)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RPX2001&theme=dark&date_format=j%20M%5B%20Y%5D)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPX2001)](https://github.com/anuraghazra/github-readme-stats)
