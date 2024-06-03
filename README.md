@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded syste
 
 ### 📫 Get in Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/) or send me an email at raveen@example.com. I'm always open to discussing new projects, collaborations, or just chatting about tech!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raveen-pramuditha-504564214/) or send me an email at raveenpspathirana99@gmail.com. I'm always open to discussing new projects, collaborations, or just chatting about tech!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPX2001)](https://github.com/anuraghazra/github-readme-stats)
