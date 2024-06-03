@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded syste
 - 🌱 **Skills:** 
   - **Programming Languages:** Python, C++, MATLAB
   - **Specializations:** IoT, Embedded Systems, Robotics, Machine Learning
-  - **Tools & Technologies:** ROS2 (Robot Operating System 2)
+  - **Tools & Technologies:** ROS2 (Robot Operating System 2), Altium (PCB design), SolidWorks (Enclosure design)
+
 
 ### 💡 Projects and Interests
 
@@ -16,6 +17,8 @@ Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded syste
 - Developing advanced robotics applications
 - Creating machine learning models for real-world applications
 - Exploring the latest trends in embedded systems
+- Designing PCBs using Altium
+- Creating enclosure designs with SolidWorks
 
 ### 📫 Get in Touch
 
