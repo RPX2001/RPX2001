@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate enthusiast in IoT, embedded systems, robotics, and machine learning. Currently, I'm pursuing my studies in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa.
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RPX2001)
+
+
 ### 🚀 About Me
 
 - 🔭 **Current Focus:** Working on exciting projects related to electronics and embedded systems.
