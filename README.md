@@ -36,7 +36,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raveen-pr
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveen-pramuditha-504564214/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RPX2001&theme=dark&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RPX2001&" alt="RPX2001" width="51%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RPX2001&show_icons=true&locale=en" alt="RPX2001" width="48%"/> </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPX2001)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RPX2001&show_icons=true&locale=en&layout=compact" alt="RPX2001"/></p>
